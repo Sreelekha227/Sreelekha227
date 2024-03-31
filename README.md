@@ -1,14 +1,11 @@
 ## Hi there 👋 It's me Sree Lekha
 
-![AI & DS](https://img.shields.io/badge/AI%20%26%20DS-blue) Student @ ![KITE](https://img.shields.io/badge/KITE-orange)
-
-
- 
+![AI & DS](https://img.shields.io/badge/AI%20%26%20DS-blue) ![Student](https://img.shields.io/badge/Student-green) ![@](https://img.shields.io/badge/@-orange) ![KITE](https://img.shields.io/badge/KITE-purple)
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
+- 🤔 I’m looking for help with advancing my coding skills and creating impactful ML projects.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sree-lekha-s-7bb2a2281)
