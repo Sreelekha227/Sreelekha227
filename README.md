@@ -1,12 +1,6 @@
 ## Hi there 👋 It's me Sree Lekha
 
-\documentclass{article}
-\usepackage{xcolor}
-
-\begin{document}
-$${\textcolor{blue}{AI \& DS} \textcolor{green}{Student @} \textcolor{orange}{KITE}}$$
-\end{document}
-
+:large_blue_circle: AI & DS :green_circle: Student @ KITE :orange_circle:
  
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
