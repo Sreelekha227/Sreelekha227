@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-AI & DS Student @ KITE
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw2_bSNPpBV9MMLsu7SU7m8A&ust=1711902365181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCYpraznIUDFQAAAAAdAAAAABAK">
+==AI & DS== Student @ ==KITE==
+<img align="right" width="370" height="290" src="C:\Users\Sreel\Downloads\449554551007201.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
 - 👯 I’m looking to collaborate on ML/AI
