@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
 **<font color="blue">AI & DS</font>** Student @ **<font color="green">KITE</font>** 
-<img align="right" width="370" height="290" src="file:///D:/HTML/index.html">
+<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/data-analysis-3572904">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
 - 👯 I’m looking to collaborate on ML/AI
