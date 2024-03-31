@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-<span style="color:blue">AI & DS</span> Student @ <span style="color:green">KITE</span>
+![AI & DS](https://img.shields.io/badge/AI%20%26%20DS-blue) Student @ ![KITE](https://img.shields.io/badge/KITE-orange)
+
 
  
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
