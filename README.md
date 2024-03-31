@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-$${\color{blue}AI & DS}$$ student @ $${\color{green}KITE}$$
+$${\color{blue}AI \space \& \space DS \space \color{green}Student \space @ \space \color{orange}KITE}$$
+
 **<font color="blue">AI & DS</font>** Student @ **<font color="green">KITE</font>** 
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
