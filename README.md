@@ -1,9 +1,13 @@
 ## Hi there 👋 It's me Sree Lekha
 
-$${\color{blue}AI} \& {\color{blue}DS \space \color{green}Student \space @ \space \color{orange}KITE}$$
+\documentclass{article}
+\usepackage{xcolor}
 
+\begin{document}
+$${\textcolor{blue}{AI \& DS} \textcolor{green}{Student @} \textcolor{orange}{KITE}}$$
+\end{document}
 
-**<font color="blue">AI & DS</font>** Student @ **<font color="green">KITE</font>** 
+ 
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
