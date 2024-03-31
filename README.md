@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-==AI & DS== Student @ ==KITE==
-<img align="right" width="370" height="290" src="C:\Users\Sreel\Downloads\449554551007201.gif">
+**AI & DS** Student @ **KITE**
+<img align="right" width="370" height="290" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F061416adcf674be9d9011dcdff394fd9d3cbb5b0177622bbf4706da962d142c6%2F68747470733a2f2f6469676974616c63726561746976656d696e642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f416e616c79746963735f616d705f446174615f536369656e63652e676966&tbnid=K-WuAVqGbSKzQM&vet=12ahUKEwia9_3k2Z2FAxU4-jgGHdNBC8wQMygKegQIARBW..i&imgrefurl=https%3A%2F%2Fgithub.com%2FDeepikaA2004&docid=bpGo3wXaxTYHoM&w=600&h=450&q=free%20data%20scientist%20girl%20coding%20gif&hl=en-GB&ved=2ahUKEwia9_3k2Z2FAxU4-jgGHdNBC8wQMygKegQIARBW">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
 - 👯 I’m looking to collaborate on ML/AI
