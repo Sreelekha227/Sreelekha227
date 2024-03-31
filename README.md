@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-:large_blue_circle: AI & DS :green_circle: Student @ KITE :orange_circle:
+<span style="color:blue">AI & DS</span> Student @ <span style="color:green">KITE</span>
+
  
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
