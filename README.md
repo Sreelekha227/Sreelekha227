@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with advancing my coding skills and creating impactful ML projects.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sree-lekha-s-7bb2a2281)[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SreeLekhaS6295) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sree-lekha-s-7bb2a2281) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SreeLekhaS6295) 
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I've participated in hackathons where I built projects that I didn't know were possible in just 24 hours! ⏱️💡
 
