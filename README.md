@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sree Lekha
 
-<span style="color: blue;">AI & DS</span> Student @ <span style="color: green;">KITE</span> 
-<img align="right" width="370" height="290" src="Sreelekha227\449554551007201.gif"> 
+**<font color="blue">AI & DS</font>** Student @ **<font color="green">KITE</font>** 
+![Image](Sreelekha227\449554551007201.gif) 
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA and SQL
 - 👯 I’m looking to collaborate on ML/AI
