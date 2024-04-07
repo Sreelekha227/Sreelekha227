@@ -3,8 +3,8 @@
 ![AI & DS](https://img.shields.io/badge/AI%20%26%20DS-blue) ![Student](https://img.shields.io/badge/Student-green) ![@](https://img.shields.io/badge/@-orange) ![KITE](https://img.shields.io/badge/KITE-purple)
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/icon/coding.gif">
 - 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently learning DSA and SQL
-- 👯 I’m looking to collaborate on ML/AI
+- 🌱 I’m currently learning DSA and Data Analytics
+- 👯 I’m looking to collaborate on ML/AI/DS
 - 🤔 I’m looking for help with advancing my coding skills and creating impactful ML projects.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
