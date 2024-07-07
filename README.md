@@ -23,6 +23,6 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 
-![Sree Lekha's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Sreelekha227&theme=dark&show_icons=true&&hide=issues,contribs](https://github-readme-stats.vercel.app/api?username=Sreelekha227&theme=dark&show_icons=true&&hide=issues,contribs))
+![Sree Lekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreelekha227&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Sree Lekha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreelekha227&bg_color=3a2c2c&color=f038e4&line=d035c5&point=d3c0c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
